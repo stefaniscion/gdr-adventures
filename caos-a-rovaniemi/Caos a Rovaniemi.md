@@ -15,7 +15,8 @@ Sapendo che **il mio collaboratore in redazione, Leandro**, avrebbe scritto un a
 
 Quello che quindi ho fatto è stato recuperare dai miei appunti quela fantomatica shot, ribilandciare il tutto **per un party di 4 giocatori**, riscriverla in modo da trasformarla in un formato più piacevole e pulito e aggiungere introduzione che ora stai leggendo.
 Eccola qui! la mia shot per il natale 2021, riproposta al grande pubblico nel 2022!
-## Alcune raccomandazioni
+## Alcuni dettagli
+Aggiungo di seguito alcuni dettagli sull'avventura che potrebbe essere utile sapere
 ### Giddierre.it
 **Giddierre.it** è una community italiana sui **Giochi di Ruolo**. 
 
@@ -28,17 +29,28 @@ Durante l'avventura vi sono alcuni nomi come "Babbo Inverno" e "Festa dei Fuochi
 
 E una mia scelta di gusto personale, ma sentitevi tranquilli nel utilizzare nomi alternativi o reali.
 
-### Lo spirito del natale
-Ti ricordo che prima di iniziare a giocare è **essenziale** munirsi di:
-- Maglioni natalizi imbarazzanti
-- Tazze da riempire (a scelta) con birra o cioccolata calda.
-- Spirito natalizia
-- Tanta voglia di divertirsi
+### Gli avventurieri e l'avventura
+La shot è pensata e bilanciata per essere giocata da **4 personaggi** di **5o livello**.
+Sono presenti **8 combattimenti** possibili, divisi in **6 atti** narrativi, pertanto la shot potrebbe richiedere circa **3-4 ore** per essere completata!
+Siccome non è brevissima, assicurati che ci sia il tempo necessario per giocarla, in caso contrario potresti optare per dividere la shot in 2 parti (idealmente: **dall'atto 1 all'atto 3** e **dall'atto 4 all'atto 6**, in ogni caso, per non rompere il pathos, ti consiglio di terminare eventualmente la sessione alla fine di un atto)
 
-Fatto? Perfetto! Siete pronti!
+### Lo spirito del natale
+Il tono dell'avventura è molto rilassato, ci sono degli elementi pseudocomici con riferimenti a dettagli del mondo reale trasposti in ambientazione fantasy, mischiati a un avventura tutto sommato seria.
+
+E studiata per essere adatta un pò a tutti, sia per chi ama un gioco dal tono particolarmente serio, sia da chi invece preferisce un gioco più scansonato.
+
+Prima di iniziare a giocare è **essenziale** munirsi di:
+- Maglioni natalizi imbarazzanti;
+- Tazze da riempire (a scelta) cioccolata calda o la più classica birra;
+- Spirito natalizia;
+- Tanta voglia di divertirsi!
+
+Fatto? Perfetto. Ora siete pronti per giocare!
 Spero che questa shot faccia divertire te e i tuoi giocatori come ha fatto divertire noi.
 
-Rinnovo a te e al tuo gruppo di gioco un **Buon Natale** da parte di tutta la redazione di *Giddierre.it* e vi auguro: Buona Shot!
+Rinnovo a te e al tuo gruppo di gioco un **Buon Natale** da parte di tutta la redazione di *Giddierre.it* e vi auguro: **Buona Shot!**
+
+\page
 
 # Atto 1 - L'arrivo a Rovaniemi
 **Rovaniemi** è una cittadina nella regione a nord del continente di Solus.
@@ -63,8 +75,6 @@ Ovunque vi sono persone che festeggiano, che ridono e che fanno compere. In gene
 Il gruppo di avventurieri si trova all'entrata della cittadina di Rovaniemi.
 
 Siccome la festa dei fuochi invernali si avvicina, hanno deciso di fare tappa proprio a Rovaniemi, una piccola cittadina turistica.
-
-\page
 
 Gli avventurieri sono liberi di girare per la cittadina: potrebbero voler visitare un negozio di dolciumi, potrebbero voler fare un offerta al tempio di Rovaniemi, o potrebbero voler andare in una locanda a bere tutti insieme.
 
@@ -100,8 +110,8 @@ I giocatori non dovrebbero venire a sapere i retroscena dell'avventura già a qu
 
 **La statua**. La statua raffigura la dea Yielris, il fiore di cristallo. Ella è la Dea del Ghiaccio e del inverno, ed è la protettrice di Rovaniemi.
 
-**La maledizione**. La maledizione a cui si riferiscono i sacerdoti è la maledizione a cui è stato condannato *Quintoris*, un guerriero leggendario che osò sfidare Yielris, convinto della sua potenza.
-Egli però è stato sconfitto e per la sua insolenza Yielris l'ha maledetto.
+**La maledizione**. La maledizione a cui si riferiscono i sacerdoti è la maledizione a cui è stato condannato *Quintoris*, un guerriero leggendario che osò sfidare Yielris, convinto di poterla battere facilmente.
+Egli però fù stato sconfitto e per la sua insolenza Yielris lo maledì per 10000 anni.
 }}
 
 ### La fabbrica
@@ -114,6 +124,8 @@ Ognuno di quesi ha una maglia rossa, con dettagli natalizi e il logo "Winter Dad
 I cancelli sono chiusi e la fabbrica è sorvegliata da dei goblin in abiti da lavoro.
 
 I goblin ovviamente non fanno entrare nessuno che non sia addetto ai lavori.
+
+\page
 
 ## Fuori da Rovaniemi
 ### Il cimitero di Rovaniemi 
@@ -144,45 +156,147 @@ Queste sono solo alcune delle domande che i giocatori potrebbero farsi dopo l'ev
 Questa parte può essere uno spunto di trama per una successiva avventura nella stessa ambientazione, timanendo un punto senza risposta alla fine della shot.
 }}
 
-\page
-
 # Atto 2 - Caos a Rovaniemi!
 
-Dopo qualche ora che il party gira per la cittadina si ode un esplosione, e poi un altra esplosione.
-
-Se gli avventurieri esaminano bene la situazione, essi potranno accorgersi che ciò che sta succedendo: stanno esplodendo delle casse, casse che, tra l'altro, portano tutte la scritta "Winter Daddy’s Sweets & Co." e sono tutte vicino a negozianti di dolciumi.
+Dopo qualche ora che gli avventurieri girano per la cittadina, si ode un esplosione, susseguita da altre numerose esplosioni.
 
 La cittadina va nel panico, alcune case prendono fuoco, le esplosioni diventano sempre piu frequenti e in totale se ne verificano una ventina.
+
+Se gli avventurieri esaminano bene la situazione, essi potranno accorgersi che ciò che sta succedendo: stanno esplodendo delle casse, casse che, tra l'altro, portano tutte la scritta "Winter Daddy’s Sweets & Co." e sono tutte vicino a negozianti di dolciumi.
 
 Un ulteriore attenta analisi, può portare gli avventurieri ad accorgersi che l'unica zona non colpita è il tempio di Rovaniemi.
 
 Le strade iniziano lentamente a disseminarsi di Goblin che distruggono e attaccano botteghe e bancarelle, fracasando le vetrine e distruggendo accessori.
 
-Quando gli avventurieri si recano nella piazza, **4 goblin** che stavano sorvegliando la zona, attaccano il party.
+## Il tempio
+Quando gli avventurieri si recano nella piazza antecedente il tempio, **4 goblin** che stavano sorvegliando la zona, attaccano il party.
 
-Se lo scontro si mette male per i Goblin chiedono pietà e si arrendono.
+Se lo scontro si mette male per i Goblin, essi chiedono pietà e si arrendono.
 
 In realtà è solo un modo per distrarre gli avventurieri mentre, dalle finestre dei palazzi che danno sulla piazza, altri **4 goblin** attaccano gli avventurieri, sorprendendoili.
 
-Finito lo scontro se il gruppo va al tempio, scopre che i sacerdoti sono stati uccisi e la pietra trafugata.
+La tatica dei goblin di fatto è quella di circondare il party, sfruttando la loro disattenzione nel non notare che vi sono dei goblin nelle case.
+
+Finito lo scontro, quando gli avventurieri si entrano nel tempio, scoprono che i sacerdoti sono stati uccisi e la pietra trafugata.
+
+{{monster,frame
+## Goblin
+*Umanoide piccolo (goblinoide), neutrale malvagio*
+___
+**Classe Armatura** :: 15 (armatura di cuoio, scudo)
+**Punti Ferita**  :: 7 (2d6)
+**Velocità**       :: 9 m
+___
+|  FOR  |  DES  |  COS  |  INT  |  SAG  |  CAR  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 8 (-1)|14 (+2)|19 (+5)|19 (+5)|10 (+0)|20 (+5)|
+___
+**Abilità**             :: Furtività +6
+**Sensi**                :: Percezione passiva 9, scurovisione 18m
+**Linguaggi**            :: Comune, Goblin
+**Sfida**                :: 1/4 (15 PE)
+___
+***Fuga Agile.*** Il goblin può effettuare l'azione di Disimpegno o Nascondersi come azione bonus a ogni suo turno.
+### Azioni
+***Scimitarra.*** *Attacco con arma da mischia* +4 al tiro per colpire, portata 1,5m, un bersaglio. *Colpito* 5 (1d6 + 2) danni taglienti. 
+:
+***Arco Corto.*** *Attacco con arma a distanza:* +4 al tiro per colpire, gittata 24/96 m., un bersaglio. *Colpito* 5 (1d6 + 2) danni perforanti.
+}}
+
+\page
 
 # Atto 3 - La fabbrica dei dolci
 
-Arrivati alla fabbrica dei dolci, gli avventurieri notano subito l’insegna.
+Arrivati alla fabbrica dei dolci, gli avventurieri notano subito l’insegna che recita "Winter Daddy’s Sweets & Co.
 
 L’entrata della fabbrica è incustodita ed aperta, sembra come se qualcuno sia andato via di fretta e furia, lasciando tutto incustodito.
 
-- **Atrio** Entrati nella fabbrica, quasi tutti i macchinari sono tutti fermi o non funzionanti, tranne qualche nastro trasportatore che trasporta casse in altre aree della fabbrica.
-Su un nastro fermo vi sono diversi pacchi incartati, in uno di questi vi è una targhetta "Per Arthur il mio guerriero preferito, Fiona" e contiene un Arma +2
+## La reception 
+Entrati nella fabbrica vi è una reception.
+
+Al bancone vi è un Goblin che legge un libro, esso è totalmente assorto e non presta attenzione agli avventurieri, purchè questi non facciano molto casino o non lo interpellino direttamente.
+
+Se il Goblin viene interpellato, questi dà delle indicazioni sommarie su come diriggersi nell'ufficio del capo e torna velocemente al suo libro scocciato.
+
+Dietro la reception vi è una porta che dà sulla *sala dei macchinari**
+
+### La sala delle macchine
+La sala è piena di rulli trasportatori, mentre a terra, sui lati della stanza è pieno zeppo di pacchi di cartone e casase di legno: vuoti, piegati e pieni.
+
+Quasi tutti i macchinari nella sala sono fermi , tranne qualche nastro trasportatore che trasporta casse in altre aree della fabbrica.
+
+Su un nastro fermo vi sono diversi pacchi incartati a mò di regalo, su uno di questi vi è una targhetta che recita:
+
+*"Per Arthur, il mio guerriero preferito, amore tuo Fiona"* 
+
+Il pacco, se aperto, rivela un **Arma +2** *(DMG pag.156)*. 
+
 Vi sono 2 porte sulla destra una per le *Camerate*, una per le *Cucine* e una sulla sinistra per un *Corridoio.*
-- **Camerate** Vi sono 6 goblin che dormono, a terra vi è un casino tremedo, se gli avventurieri fanno casino, i goblin si svegliano e attaccano i membri del gruppo.
-Nella stanza possono trovare una Borsa dei fagioli
-- **Cucine** Vi sono dei tavoli, delle dispense e tante scatolette di tonno.
-- **Corridoio** E un lungo corridoio, in fondo vi è una porta che da sulla Sala di controllo.
-- **Sala di controllo** Arrivati nella sala di controllo il party incontra un gruppo di Sacerdoti in abito blu che minaccia il party "Avete fatto un errore a venire qui!"
-I 2 Sacerdoti poi attaccano il gruppo.
-Dopo 2 turni dall’allarme, si uniscono al combattimento i 6 Goblin delle camerate.
-Finito lo scontro uno dei sacerdoti in fin di vita dice: "Troppo tardi, il nostro capo ormai avrà ricevuto la pietra"
+
+### Le Camerate
+La sala vasta e con diversi letti a castello, a terra c'è molta confusione, ci solo dolci mangiucchiati, scaltole di cartone aperte e bottiglie rotte.
+
+Ci sono 2 goblin che dormono, se gli avventurieri fanno casino, i goblin si svegliano e attaccano i membri del gruppo.
+
+Nella stanza possono trovare sotto il letto di uno dei due goblin una **Borsa dei fagioli Magici** *(DMG pag.167)*.
+
+### Le Cucine
+Entrando nelle cucine gli avventurieri vedono delle lunghe tavolate e un bancone in fondo, probabilmente dove veniva servito il cibo. 
+
+Dietro il bancone ci sono delle dispense contenenti tante scatolette di tonno.
+### Il Corridoio
+Il corridoio, molto lungo, ha una vetrata sulla destra, che permette agli avventurieri di vedere una sala, probabilmente dietro La sala delle macchine, dove vi sono diversi macchinari per l'assemblaggio di articoli.
+
+In fondo al corridoio c'è una porta che permette di raggiungere **L'ufficio**
+
+\page
+### L'ufficio
+L'ufficio è arredato con dei mobili in legno, un grande tappeto rosso e una scrivania al centro.
+
+Nella stanza c'è un gruppo di tre Sacerdoti in abito blu.
+
+Uno di questi ha un sacchettoi legato alla cintura e minaccia il party: *Avete fatto un errore a venire qui!"*.
+
+I 3 Sacerdoti poi attaccano il gruppo.
+Finito lo scontro uno dei sacerdoti in fin di vita dice ridendo: *"Avete fatto troppo tardi, il nostro capo ormai avrà ricevuto la pietra"*
+
+
+{{monster,frame
+## Sacerdote
+*Umanoide piccolo (goblinoide), neutrale malvagio*
+___
+**Classe Armatura** :: 13 (giaco di maglia)
+**Punti Ferita**    :: 27 (5d8 + 5)
+**Velocità**        :: 7,5 m
+___
+|  FOR  |  DES  |  COS  |  INT  |  SAG  |  CAR  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|10 (+2)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
+___
+**Abilità**             :: Medicina +7, Persuasione +3, Religione +4
+**Sensi**                :: Percezione passiva 13
+**Linguaggi**            :: Due lingue qualsiasi
+**Sfida**                :: 1/4 (15 PE)
+___
+
+***Eminenza Divina.*** Come azione bonus, il sacerdote può spendere uno slot incantesimo per far sì che il suo attacco con arma da mischia infligge 10 (3d6) danni radianti aggiuntivi. Il beneficio dura fino al termine del turno. Se il sacerdote spende uno slot di 2° livello o più alto, il danno aggiuntivo aumenta di 1d6 per ogni livello sopra il 1°.
+:
+***Eminenza Divina.*** Come azione bonus, il sacerdote può spendere uno slot incantesimo per far sì che il suo attacco con arma da mischia infligge 10 (3d6) danni radianti aggiuntivi. Il beneficio dura fino al termine del turno. Se il sacerdote spende uno slot di 2° livello o più alto, il danno aggiuntivo aumenta di 1d6 per ogni livello sopra il 1°.
+:
+***Eminenza Divina.*** Come azione bonus, il sacerdote può spendere uno slot incantesimo per far sì che il suo attacco con arma da mischia infligge 10 (3d6) danni radianti aggiuntivi. Il beneficio dura fino al termine del turno. Se il sacerdote spende uno slot di 2° livello o più alto, il danno aggiuntivo aumenta di 1d6 per ogni livello sopra il 1°.
+:
+***Incantesimi.*** Il sacerdote è un incantatore di 5° livello. La sua abilità da incantatore è la Saggezza (CD dei tiri salvezza degli incantesimi 13, +5 al colpire con attacchi con incantesimo). Il sacerdote ha preparato i seguenti incantesimi da chierico:
+
+Trucchetti (a volontà): *fiamma sacra*, *luce*, *taumaturgia*
+
+1° livello (4 slot): *cura ferite*, *dardo tracciante*, *santuario*
+
+2° livello (3 slot): *arma spirituale*, *ristorare inferiore*
+
+3° livello (2 slot): *dissolvi magie*, *guardiani spirituali*
+### Azioni
+***Mazza.*** *Attacco con arma da mischia* +2 al tiro per colpire, portata 1,5m, un bersaglio. *Colpito* 3 (1d6) danni taglienti. 
+}}
 
 # Atto 4 - Il monte Rori
 
@@ -223,9 +337,7 @@ Il Trenant poi dice al gruppo di aspettare. Esso pronuncia delle parole druidich
 Dopodichè gli alberi della radura si scansano formando una strada che li porta fuori dalla foresta e fino al faro.
 - 8 ora - (diff 1) Il party arriva di fronte al faro.
 
-
 \page
-
 
 # Atto 5 - Il dungeon del faro
 Gli avventurieri giungono dinnanzi al faro e notano che le porte sono sigillate.
@@ -242,7 +354,9 @@ Vi sono li davanti 4 Sacerdoti, con in mano la pietra pronti a gettarla nel buco
 Una volta sconfitti, la piedra cade ai piedi del gruppo.
 Essi fanno appena in tempo a raccoglierla che una figura mastodontica, appare dietro di loro.
 
-# Atto 6 - La fight contro Babbo Inverno
+\page
+
+# Atto 6 - Lo scontro con Quintoris
 
 Davanti al party si presenta una figura mastodontica, Babbo Inverno è davanti agli avventurieri.
 
@@ -250,5 +364,5 @@ Egli si avvicina minaccioso ed annuncia con voce gutturale "DATEMI, LA PIETRA!".
 
 Se Babbo Inverno riesce a gettare la pietra nel faro, i suoi danni sono raddoppiati, dimezza tutti i danni e la sua CA aumenta di 3.
 
-# Epilogo
+# Epilogo - Il ritrono a Rovaniemi
 
