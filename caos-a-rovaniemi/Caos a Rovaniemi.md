@@ -84,7 +84,7 @@ Il tempo di Rovaniemi è un grande tempio bianco fatto in marmo.
 
 Si affaccia sulla piazza principale della città dove vi è una grossa statua raffigurante una donna.
 
-![Statua di Yielris](./images/statua-yielris.jpg)
+![Statua di Yielris](./images/statua-yielris.png)
 
 Nel tempio di Rovaniemi vi è un altare con una pietra trasparente che fluttua a mezz'aria. La pietra emana freddo e assomiglia al ghiaccio. 
 
