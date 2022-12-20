@@ -1,3 +1,6 @@
+{{pageNumber,auto}}
+{{footnote INTRODUZIONE}}
+
 # Alcune note introduttive
 Ciao, lettore di Giddierre.it!
 
@@ -57,6 +60,9 @@ Auguro a te e al tuo gruppo di gioco un **Buon Natale** da parte di tutta la red
 
 \page
 
+{{pageNumber,auto}}
+{{footnote ATTO 1}}
+
 # Atto 1 - L'arrivo a Rovaniemi
 **Rovaniemi** è una cittadina nella regione a nord del continente di Solus.
 
@@ -85,6 +91,10 @@ Gli avventurieri sono liberi di girare per la cittadina: potrebbero voler visita
 ![Mappa Rovaniemi](https://i.imgur.com/CX6DrKh.jpg) {width:100%,mix-blend-mode:multiply}
 }}
 \page
+
+{{pageNumber,auto}}
+{{footnote ATTO 1}}
+
 ### Le botteghe di Rovaniemi
 Le botteghe e le taverne che si affacciano sul borgo vendono di tutto, dolci, prodotti artigianali, birra, vino, idromele e alcolici vari, vi sono anche caffetterie, forni e pasticcerie.
 
@@ -127,6 +137,9 @@ Egli fù però sconfitto e per la sua insolenza Yielris lo maledì per 10000 ann
 }}
 
 \page
+
+{{pageNumber,auto}}
+{{footnote ATTO 1}}
 
 ### La fabbrica
 Un pò dislocata dal punto centrale della città, vi è una fabbrica circondata da delle mura con del filo spinato in cima.
@@ -182,6 +195,9 @@ Questa parte può essere uno spunto di trama per una successiva avventura nella 
 
 
 \page
+
+{{pageNumber,auto}}
+{{footnote ATTO 2}}
 
 # Atto 2 - Caos a Rovaniemi!
 
@@ -261,6 +277,9 @@ Vi sono 2 porte sulla destra una per le *Camerate*, una per le *Cucine* e una su
 
 \page
 
+{{pageNumber,auto}}
+{{footnote ATTO 3}}
+
 ### Le Camerate
 La sala vasta e con diversi letti a castello, a terra c'è molta confusione: dolci mangiucchiati, scatole di cartone aperte e bottiglie rotte.
 
@@ -328,6 +347,9 @@ Trucchetti (a volontà): *fiamma sacra*, *luce*, *taumaturgia*
 
 \page
 
+{{pageNumber,auto}}
+{{footnote ATTO 4}}
+
 # Atto 4 - Il monte Rori
 
 Il monte Rori è un luogo innevato e silenzioso. La neve cade leggera e trasmette un senso di tranquillità al party.
@@ -366,6 +388,7 @@ ___
 }}
 
 Se i coboldi riescono a rubare l'oggetto, gli avventurieri possono decidere di impiegare un ulteriore ora di viaggio per trovare il covo dei coboldi.
+:::
 ##### Il covo dei coboldi alati
 Il covo dei coboldi alati è una caverna scavata nella neve, all'interno della caverna vi sono i 4 coboldi alati coinvolti nel furto. 
 
@@ -394,6 +417,9 @@ Se gli avventurieri sconfiggono il Treant, comprende che non può fermarli, e qu
 E possibile evitare il combattimento usando la diplomazia se i personaggi riescono a convincerlo della bontà delle loro intenzioni.
 
 \page
+
+{{pageNumber,auto}}
+{{footnote ATTO 4}}
 
 {{monster,frame
 ## Treant
@@ -452,6 +478,9 @@ Alla fine della scalata il party si trova sulla vetta del monte di fronte al far
 
 \page
 
+{{pageNumber,auto}}
+{{footnote ATTO 5}}
+
 # Atto 5 - Il faro di Yielris
 
 
@@ -483,6 +512,9 @@ Le due statue diventano un **Elementale dell’Acqua** e un **Elementale del Ari
 Sconfitti gli elementali, dopo alcuni istanti il pavimento del faro inizia a tremare, trasformandosi in una sorta di ascensore, che porta il gruppo in cima alla torre.
 
 \page
+
+{{pageNumber,auto}}
+{{footnote ATTO 5}}
 
 {{monster,frame
 ## Elementale dell'Acqua
@@ -564,6 +596,9 @@ Se il tiro salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 \page
 
+{{pageNumber,auto}}
+{{footnote ATTO 5}}
+
 ### Tetto
 Non appena gli avventurieri raggiungono la cima del faro, notano che vi è un sacerdote in abito blu con in mano la pietra.
 
@@ -634,6 +669,9 @@ A volontà: caduta controllata, individuazione del magico, levitazione, luce
 
 \page
 
+{{pageNumber,auto}}
+{{footnote EPILOGO}}
+
 {{wide
 # Epilogo - Il ritrono a Rovaniemi
 Gli avventurieri ritornano a Rovaniemi, e trovano il villaggio in ricostruzione.
@@ -647,3 +685,21 @@ Gli avventurieri possono passare i loro ultimi momenti a Rovaniemi e infine ripa
 
 ![Rovaniemi](https://imgur.com/NaYz6dx.png) {width:100%,mix-blend-mode:multiply}
 }}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote CREDITI}}
+
+{{wide
+# Crediti
+- Statua - https://www.pinterest.it/pin/428334614529709756/
+- Pietra - https://ar.pinterest.com/pin/735071970410928762/
+- Cimitero - https://www.artstation.com/artwork/Nx8235
+- Treant -https://in.pinterest.com/pin/780811654129583966/
+- Faro - https://www.pinterest.it/pin/732890539339730734/
+- Babbo Inverno - https://www.pinterest.it/pin/582019951818729370/
+- Rovaniemi - https://www.freepik.com/premium-photo/christmas-village-digital-illustration-painting-beautiful-scenario_33380492.htm
+}}
+
+
